@@ -14,6 +14,7 @@ public class AddressBook {
 		if(aBuddyInfo!=null){
 			buddyInfo.add(aBuddyInfo);
 		}
+		//ermiyas
 	}
 
 	public void removeBuddy(int index) {
