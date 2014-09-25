@@ -19,6 +19,7 @@ public class AddressBook {
 	public void removeBuddy(int index) {
 		if(index>=0 && index<buddyInfo.size()){
 			buddyInfo.remove(index);
+			
 		}
 		
 	}
